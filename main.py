@@ -1,11 +1,12 @@
 #!/usr/bin/python3
 import random
 
-#Another comment
-#I would think comments are made using the pound sign
-#The following command prints the message
+#No longer need coments
 def main(msg):
     print(msg)
+
+def secondary():
+    print("New function")
 
 main("Hello People")
 if (random.randint(1,1001)%2==1):
