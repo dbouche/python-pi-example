@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import random
 
+//the following command prints the message
 def main(msg):
     print(msg)
 
