@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import random
 
+#I would think comments are made by the pound sign
 def main(msg):
     print(msg)
 
